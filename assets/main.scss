@@ -3,3 +3,24 @@
 ---
 
 @import 'tale';
+
+// 🌿 Custom green styling
+a, a:visited {
+  color: #2e7d32;
+}
+
+a:hover {
+  color: #1b5e20;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #2e7d32;
+}
+
+.site-title, .post-title, nav a {
+  color: #2e7d32;
+}
+
+blockquote {
+  border-left: 4px solid #2e7d32;
+}

@@ -25,7 +25,15 @@ blockquote {
   border-left: 4px solid #2e7d32;
 }
 
-.page-header {
+/* 🔧 Force pink nav bar in Tale */
+.site-header {
   background-color: pink !important;
+}
+
+.site-header a,
+.site-header h1,
+.site-title,
+.nav {
+  color: black !important;
 }
 

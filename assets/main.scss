@@ -25,13 +25,8 @@ blockquote {
   border-left: 4px solid #2e7d32;
 }
 
-.site-header {
-  background-color: #ffc0cb; 
-  padding: 1rem;            
+/* Custom top bar color */
+.page-header {
+  background-color: pink;
 }
 
-
-/* Optional: change the nav link color on pink */
-.site-header a {
-  color: #000; /* black for contrast */
-}

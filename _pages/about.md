@@ -1,15 +1,10 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Rebecca Koleth"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+I was born on a Thursday in the summer and named Rebecca Ann Koleth. Nobody calls me Rebecca, but I signed every assignment, essay, test, and email with Rebecca Koleth until high school. Becky is still new, and if I make a mistake here, I want it to be left with Rebecca, so I'll sign each post with Rebecca Koleth. 
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
-
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
-
-Thanks for reading!
+I often say that the most interesting thing about me is my cat, Fork. She is lovely in every way, but I am searching for something interesting about me that is, well, actually about me. Here are some facts: my favourite colour is green, I like shrimp, and I don't go outside enough. If you feel like knowing more, you can read some of my posts to figure out whatever is wrong with me. That's all.

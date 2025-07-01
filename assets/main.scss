@@ -25,6 +25,13 @@ blockquote {
   border-left: 4px solid #2e7d32;
 }
 
-h1, .catalogue-title {
-  color: #e91e63; // a nice pink
+/* Pink top bar styling */
+.site-header {
+  background-color: #ffc0cb; /* light pink */
+  padding: 1rem;             /* optional: adds some space */
+}
+
+/* Optional: change the nav link color on pink */
+.site-header a {
+  color: #000; /* black for contrast */
 }

@@ -37,15 +37,15 @@ a.pink-link:hover {
   text-decoration: underline;
 }
 
-.post, .post-content, article, .page-content {
-  line-height: 1.75;
-}
-.post p {
-  margin-bottom: 1.2em;
-}
-
 
 body {
   background-color: #f5fffa; /* mint cream */
 }
 
+.page-content {
+  line-height: 1.85 !important;
+}
+
+.page-content p {
+  margin-bottom: 1.25em !important;
+}

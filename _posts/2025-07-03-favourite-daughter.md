@@ -11,6 +11,7 @@ title: "Favourite Daughter"
       document.removeEventListener("click", playSongOnce);
       }
     }
+  document.addEventListener("click", playSongOnce);
 </script>
 
 <div style="color: #0c3095;">

@@ -6,6 +6,17 @@ title: "Favourite Daughter"
 I love Lorde.
 </div>
 
+<audio id="song" src="/assets/favourite-daughter.mp3" preload="auto"></audio>
+<script>
+  function playSongOnce() {
+    const audio = document.getElementById("song");
+    if (audio) {
+      audio.play().catch(err => console.log("Autoplay blocked:", err));
+      document.removeEventListener("click", playSongOnce);
+      }
+    }
+</script>
+
 
 <!--more-->
 

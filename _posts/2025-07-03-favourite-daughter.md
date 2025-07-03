@@ -2,10 +2,6 @@
 layout: post
 title: "Favourite Daughter"
 ---
-<div style="color: #0c3095;">
-I love Lorde.
-</div>
-
 <audio id="song" src="/assets/favourite-daughter.mp3" preload="auto"></audio>
 <script>
   function playSongOnce() {
@@ -16,6 +12,10 @@ I love Lorde.
       }
     }
 </script>
+
+<div style="color: #0c3095;">
+I love Lorde.
+</div>
 
 
 <!--more-->

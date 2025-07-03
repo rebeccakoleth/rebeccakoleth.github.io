@@ -28,6 +28,16 @@ blockquote {
   text-indent: 2em;
 }
 
+a.pink-link {
+  color: #c2185b;
+  text-decoration: none;
+}
+
+a.pink-link:hover {
+  text-decoration: underline;
+}
+
+
 body {
   background-color: #f5fffa; /* mint cream */
 }

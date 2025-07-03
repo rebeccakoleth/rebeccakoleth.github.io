@@ -24,7 +24,7 @@ Lorde's whispery lyrics and her desperate pace make her sound like she's constan
 Constantly fighting to earn love that should have been freely given, crushed under the weight of a debt of dreams ("breaking my back to carry the weight of your heart") under the premise of a better life. Becoming a smoother, subtler, kinder version of yourself, every move threatening to collapse the quietly architectured expectations. Watching biting anger once directed towards you turn towards others, and still dreading the day it finds its way back to you. Wishing they had been kinder to the little girl she once was, dreaming big and loud. Instead, every silence is a held breath. Love, when given with conditions, never feels like rest. It becomes a perpetual contortion that falls apart and washes away before reforming, each time more brittle. It looks easier, and for a while, it is easier to imagine this delicate love forever, but bravery isn't enough to forgive a mom who is always just out of reach. Forgiving the daughter she used to be is easy. She once confessed to me that I looked just like her sister, who died a few years ago, and she was embarrassed as she admitted she fleetingly believed in reincarnation.
 </div>
 <div class="indent">
-Favourite Daughter is not female rage, or thought daughter core, or whatever people say on the internet. It's not even angry. It's tired and loving. It's love, worn thin.
+Favourite Daughter is not female rage, or thought daughter core, or whatever people say on the internet. It's not even truly angry. It's tired and loving. It's love, worn thin.
 </div>
 <div class="indent">
 I listened to Favourite Daughter 50 billion times while writing this, so this is one thing I owe to Lorde—Rebecca Koleth

@@ -28,5 +28,11 @@ blockquote {
 .indent {
   text-indent: 2em;
 }
+/* Force header to be pink no matter what */
 
-
+header.site-header,
+nav.site-nav,
+.site-nav,
+.site-header {
+  background-color: pink !important;
+}

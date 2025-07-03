@@ -42,10 +42,13 @@ body {
   background-color: #f5fffa; /* mint cream */
 }
 
-.page-content {
+
+/* Improve spacing inside post content */
+.post {
   line-height: 1.85 !important;
 }
 
-.page-content p {
-  margin-bottom: 1.25em !important;
+.post p {
+  margin-bottom: 1.4em !important;
 }
+

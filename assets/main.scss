@@ -24,16 +24,9 @@ h1, h2, h3, h4, h5, h6 {
 blockquote {
   border-left: 4px solid #2e7d32;
 }
-/* 🔧 Force pink nav bar in Tale */
-.site-header {
-  background-color: pink !important;
-}
 
-.site-header a,
-.site-header h1,
-.site-title,
-.nav {
-  color: black !important;
+.indent {
+  text-indent: 2em;
 }
 
 

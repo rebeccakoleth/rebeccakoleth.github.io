@@ -28,15 +28,10 @@ blockquote {
 .indent {
   text-indent: 2em;
 }
-  
-.post-content {
-  line-height: 1.8;  /* Adjust this number as needed (1.6–1.8 is usually ideal) */
-}
-}
-.site-header .site-title {
-  color: #c2185b !important; /* magenta or deep pink */
-}
 
 body {
   background-color: #d0f0c0; /* soft light pink */
+}
+.post-content {
+  line-height: 1.8;  /* Adjust this number as needed (1.6–1.8 is usually ideal) */
 }

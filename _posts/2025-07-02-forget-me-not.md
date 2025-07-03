@@ -2,8 +2,9 @@
 layout: post
 title: "Dear Mrs. Keleher,"
 ---
-
+<div style="color: #2e7d32;">
 A letter to my third-grade teacher.
+</div>
 
 <!--more-->
 

@@ -2,8 +2,8 @@
 layout: post
 title: "Favourite Daughter"
 ---
-<audio id="song" src="/assets/favourite-daughter.mp3" preload="auto" type="audio/mpeg"></audio>
-
+<audio id="song" src="/assets/favourite-daughter.mp3" preload="auto" type="audio/mpeg">
+</audio>
 <script>
   function playSongOnce() {
     const audio = document.getElementById("song");
@@ -14,7 +14,6 @@ title: "Favourite Daughter"
       document.removeEventListener("click", playSongOnce);
     }
   }
-
   document.addEventListener("click", playSongOnce);
 </script>
 

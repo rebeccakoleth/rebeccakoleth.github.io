@@ -25,19 +25,6 @@ I love Lorde.
 
 <!--more-->
 
-<div class="indent" style="
-  color: #2c03cb;
-  padding: 10px 20px;
-  border-radius: 10px;
-  font-weight: bold;
-  text-align: center;
-  width: fit-content;
-  margin: 20px auto;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  cursor: pointer;
-">
-  Click anywhere to listen along!
-</div>
 <div class="indent">
   <a href="https://open.spotify.com/track/6FRKxwDHTDGr1lqQ0SEprH?si=46b314a25bff4a4e" target="_blank" class="pink-link">
     Favourite Daughter

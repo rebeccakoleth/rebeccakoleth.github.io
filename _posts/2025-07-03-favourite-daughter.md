@@ -2,20 +2,20 @@
 layout: post
 title: "Favourite Daughter"
 ---
-<audio id="song" src="/assets/favourite-daughter.mp3" preload="auto" type="audio/mpeg">
-</audio>
+
+<audio id="song" src="/assets/favourite-daughter.mp3" preload="auto"></audio>
+
 <script>
-  function playSongOnce() {
+  window.addEventListener("DOMContentLoaded", function () {
     const audio = document.getElementById("song");
-    if (audio) {
-      audio.play().catch(err => {
-        console.log("Autoplay blocked:", err);
+    setTimeout(function () {
+      audio.play().catch(() => {
+        console.log("Autoplay blocked.");
       });
-      document.removeEventListener("click", playSongOnce);
-    }
-  }
-  document.addEventListener("click", playSongOnce);
+    }, 500);
+  });
 </script>
+
 
 
 <div style="color: #0c3095;">

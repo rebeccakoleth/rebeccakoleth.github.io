@@ -20,14 +20,13 @@ title: "Favourite Daughter"
 
 
 <div style="color: #0c3095;">
-I love Lorde.
+I love Lorde. (Click anywhere to listen along!)
 </div>
 
 
 <!--more-->
 
 <div class="indent">
-  Click anywhere to listen along!
   <a href="https://open.spotify.com/track/6FRKxwDHTDGr1lqQ0SEprH?si=46b314a25bff4a4e" target="_blank" class="pink-link">
     Favourite Daughter
   </a> is a song on Lorde's new album, <em>Virgin</em>, which she released at midnight on June 27th, right after my birthday ended. The first time I listened to Favourite Daughter, I was perched on the surface of my vanity dresser, trying on a lip gloss I had bought during sophomore year with a friend. I wanted something to cull out the creaky sounds of the night, and Lorde popped up on my YouTube subscriptions. Normally, I exclusively listen to my music on Spotify, because I begged for Spotify Premium and I indulge in ad-free listening. First, I watched 

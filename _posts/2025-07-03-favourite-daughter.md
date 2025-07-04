@@ -20,12 +20,15 @@ title: "Favourite Daughter"
 
 
 <div style="color: #0c3095;">
-I love Lorde. (Click anywhere to listen along!)
+I love Lorde.
 </div>
 
 
 <!--more-->
 
+<div class="indent">
+    Click anywhere to listen along!
+</div>
 <div class="indent">
   <a href="https://open.spotify.com/track/6FRKxwDHTDGr1lqQ0SEprH?si=46b314a25bff4a4e" target="_blank" class="pink-link">
     Favourite Daughter

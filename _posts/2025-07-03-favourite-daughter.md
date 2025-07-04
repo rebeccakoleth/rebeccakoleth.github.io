@@ -2,17 +2,22 @@
 layout: post
 title: "Favourite Daughter"
 ---
-<audio id="song" src="/assets/favourite-daughter.mp3" preload="auto"></audio>
+<audio id="song" src="/assets/favourite-daughter.mp3" preload="auto" type="audio/mpeg"></audio>
+
 <script>
   function playSongOnce() {
     const audio = document.getElementById("song");
     if (audio) {
-      audio.play().catch(err => console.log("Autoplay blocked:", err));
+      audio.play().catch(err => {
+        console.log("Autoplay blocked:", err);
+      });
       document.removeEventListener("click", playSongOnce);
-      }
     }
+  }
+
   document.addEventListener("click", playSongOnce);
 </script>
+
 
 <div style="color: #0c3095;">
 I love Lorde.

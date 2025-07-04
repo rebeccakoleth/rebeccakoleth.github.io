@@ -33,6 +33,7 @@ I love Lorde.
   font-weight: bold;
   text-align: center;
   width: fit-content;
+  margin: 20px auto;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   cursor: pointer;
 ">

@@ -42,6 +42,8 @@ function playOnly(id) {
     audio.pause();
     audio.currentTime = 0;
   });
+
+  g
   document.getElementById(id).play();
 }
 </script>

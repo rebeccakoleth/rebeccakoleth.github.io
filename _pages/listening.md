@@ -18,16 +18,15 @@ favourite daughter - lorde
   <audio id="favd" src="/assets/favourite-daughter.mp3"></audio>
   <p><a href="/2025-07-03/favourite-daughter">my post about this song</a></p>
 </div>
-<p style="text-align: center; font-size: 1.4em; letter-spacing: 0.2em;">
-✶☽༓☾✶ 𓆩✧𓆪 ✶☽༓☾✶
-</p>
 <hr style="
   border: none;
   height: 2px;
-  background: linear-gradient(to right, #7aa874, #ff6699, #7aa874);
+  background: linear-gradient(to right, #7f7fff, #b36bff, #7f7fff);
   margin: 10px auto 30px;
   width: 60%;
-  box-shadow: 0 0 10px #ff6699, 0 0 20px #7aa874;
+  box-shadow:
+    0 0 8px #7f7fff,
+    0 0 16px #b36bff;
 ">
 <div class = "indent" style = "color:#78936b;">
 i can and i will - searows

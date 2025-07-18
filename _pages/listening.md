@@ -3,9 +3,8 @@ layout: page
 title: "Listening List"
 permalink: /listening/
 ---
-<div style = "color: ##b900bb;">
+
 # Listening List 
-</div>
 
 <div style = "color: #00951d;">
   Have you heard these songs? Click on the stars to listen.

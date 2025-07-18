@@ -2,8 +2,9 @@
 layout: post
 title: Evil Cookie
 ---
-
+<div style="color: #2e7d32;">
 This cookie definitely cursed me.
+</div>
 
 <!--more-->
 

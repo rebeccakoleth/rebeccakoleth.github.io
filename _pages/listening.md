@@ -29,7 +29,7 @@ i can and i will - searows
 </div>
 <hr>
 <div class = "indent" style = "color:#58b6c3;">
-blade bird - okloug
+blade bird - oklou
   <a href="/assets/bladebird.mp3" onclick="playOnly('bbird'); return false;">
           ✩₊˚.⋆☾⋆⁺₊✧✩‧₊˚  
   </a>

@@ -26,7 +26,7 @@ i can and i will - searows
   <audio id="icaiw" src="/assets/icaniwill.mp3"></audio>
 </div>
 <div class = "indent" style = "color:#58b6c3;">
-blade bird - oklou
+blade bird - okloug
   <a href="/assets/bladebird.mp3" onclick="playOnly('bbird'); return false;">
           ✩₊˚.⋆☾⋆⁺₊✧✩‧₊˚  
   </a>
@@ -40,7 +40,6 @@ function playOnly(id) {
     audio.currentTime = 0;
   });
 
-  g
   document.getElementById(id).play();
 }
 </script>

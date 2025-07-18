@@ -3,10 +3,8 @@ layout: page
 title: "Listening List"
 permalink: /listening/
 ---
-
-# Listening List 
 <div style = "color: ##b900bb;">
-  🎶
+# Listening List 
 </div>
 
 <div style = "color: #00951d;">

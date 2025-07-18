@@ -21,6 +21,6 @@ This cookie definitely cursed me.
 <div class= "indent"> I want fear to be shared. I want people who apologise easily. I want flip-flops slapping against tile and the promise of waves on the sand. I want a childhood friend who knows me better than I know myself. I want trust. I want someone to help me when I bake an evil cookie, even if they laugh at me first.</div>
 <div class= "indent"> I know I'm greedy, but when I feel most myself, I think of the future, and I am always gone in some way. The streetlights are dark, the world is quiet, and I open the door to a small house. I turn on a harsh, white light that doesn't reach the corners of the house. In all the futures I accept, I am alone. No one waits for me to come home.</div>
 <div class= "indent"> One day, I will bake an amazing cookie. One day, my evil cookie will fossilise, and when it does, I will smash it into smithereens. When my world stops screaming, I will bask in the silence.</div>
-<div class= "indent"> Thank you, Katja, for a lot of stuff. I hope to soon redeem my baking skills and banish evil cookie forever. This has been an evil cookie that I owe. Still cookieless—Rebecca Koleth.</div>
+<div class= "indent"> Thank you, Katja, for a lot of stuff. I hope to soon redeem my baking skills and banish evil cookie forever. This has been an evil cookie that I owe. Still cookieless—Rebecca Koleth</div>
 
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Listening List"
-permalink: /listening
+permalink: /listening/
 ---
 
 <div style = "color: #00951d;">

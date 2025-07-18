@@ -19,7 +19,7 @@ favourite daughter - lorde
   <p><a href="/2025-07-03/favourite-daughter">my post about this song</a></p>
 </div>
 <hr>
-<div class = "indent" style = "color:#719f7e;">
+<div class = "indent" style = "color:#78936b;">
 i can and i will - searows
  <a href="/assets/icaniwill.mp3" onclick="playOnly('icaiw'); return false;">
           ✩₊˚.⋆☾⋆⁺₊✧✩‧₊˚  

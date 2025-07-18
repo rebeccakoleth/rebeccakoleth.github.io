@@ -6,7 +6,7 @@ permalink: /listening/
 
 # Listening List 
 
-<div style = "color: ##bb0091;">
+<div style = "color: #bb0091;">
   Have you heard these songs? Click on the stars to listen.
 </div>
 

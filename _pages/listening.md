@@ -4,7 +4,10 @@ title: "Listening List"
 permalink: /listening/
 ---
 
-## Listening List 🎶
+# Listening List 
+<div style = "color: ##b900bb;">
+  🎶
+</div>
 
 <div style = "color: #00951d;">
   Have you heard these songs? Click on the stars to listen.

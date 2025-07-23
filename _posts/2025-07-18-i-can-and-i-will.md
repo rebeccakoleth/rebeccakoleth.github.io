@@ -10,6 +10,9 @@ h1.post-title {
 
 <audio id="song" src="/assets/icaniwill.mp3" preload="auto"></audio>
 
+<div id="tapToPlay" style="position:fixed;top:0;left:0;width:100vw;height:100vh;background:transparent;z-index:9999;"></div>
+
+
 <script>
   window.addEventListener("DOMContentLoaded", function () {
     const audio = document.getElementById("song");
@@ -18,6 +21,16 @@ h1.post-title {
         console.log("Autoplay blocked.");
       });
     }, 500);
+  });
+</script>
+
+<script>
+  document.getElementById("tapToPlay")?.addEventListener("click", function () {
+    const audio = document.getElementById("song");
+    audio.play().catch(() => {
+      console.log("Autoplay failed.");
+    });
+    this.remove();
   });
 </script>
 

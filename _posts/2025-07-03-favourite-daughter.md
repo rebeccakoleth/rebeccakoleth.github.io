@@ -46,7 +46,7 @@ Constantly fighting to earn love that should have been freely given, crushed und
 <div class="indent">
 Favourite Daughter is not female rage, or thought daughter core, or whatever people say on the internet. It's not even truly angry. It's tired and loving. It's love, worn thin.
 </div>
-<hr style= "background-color:#0036df;">
+<hr style= "background-color:#0036df; height: 2px; border: none;">
 <div class="indent">
 I listened to Favourite Daughter 50 billion times while writing this, so this is one thing I owe to Lorde—Rebecca Koleth
 </div>

@@ -41,6 +41,7 @@ At some point, I decide to refer back to the video and discover that the consist
 </div>
 <div class= "indent"> One day, I will bake an amazing cookie. One day, my evil cookie will fossilise, and when it does, I will smash it into smithereens. When my world stops screaming, I will bask in the silence.
 </div>
+<hr>
 <div class= "indent"> Thank you, Katja, for a lot of stuff. I hope to soon redeem my baking skills and banish evil cookie forever. This has been an evil cookie that I owe. Still cookieless—Rebecca Koleth
 </div>
 

@@ -18,5 +18,5 @@ Dear Mrs. Keleher,
 Best,
 
 Rebecca Koleth
-
+<hr>
 <div class=indent> I'll send this one day, but for now it's just one more thing I owe—Rebecca Koleth</div>

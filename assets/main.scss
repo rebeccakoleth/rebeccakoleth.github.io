@@ -42,13 +42,9 @@ body {
   background-color: #eaffe8;
 }
 
-
-/* Improve spacing inside post content */
-.post {
-  line-height: 1.85 !important;
-}
-
-.post p {
-  margin-bottom: 1.4em !important;
+.post h1 {
+  font-size: 3.5rem !important;
+  line-height: 1.8 !important;
+  margin-bottom: 1.6rem !important;
 }
 

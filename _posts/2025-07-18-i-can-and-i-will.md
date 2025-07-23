@@ -36,7 +36,7 @@ We talk about music a lot. Almost every conversation eventually returns us to mu
 
 <div class="indent">
   
-You and I have had multiple conversations in which I claim that I don't like to listen to slow or sad music, but the truth is, I very much do like those types of songs. *I Can and I Will* by Searows is just one of many slow, sad songs that I find myself needing.
+You and I have had multiple conversations in which I claim that I don't like to listen to slow or sad music, but the truth is, I very much do like those types of songs. <em>I Can and I Will</em> by Searows is just one of many slow, sad songs that I find myself needing.
 </div>
 
 <div class="indent">
@@ -66,7 +66,7 @@ It's embarrassing to admit how lost I have been and how often. I figured being f
 
 <div class="indent">
   
-I listened to this song over and over to make myself keep going towards a reality where I trust every lyric. To me, *I Can and I Will* is an acceptance of coexisting hurting and healing. I don't like bittersweet songs because I don't like to confess that I need to feel hope. 
+I listened to this song over and over to make myself keep going towards a reality where I trust every lyric. To me, <em>I Can and I Will</em> is an acceptance of coexisting hurting and healing. I don't like bittersweet songs because I don't like to confess that I need to feel hope. 
 </div>
 
 <div class="indent">

@@ -2,10 +2,13 @@
 layout: post
 title: "Dear Mrs. Keleher,"
 ---
-<div style="color: #2e7d32;">
-  
+<style>
+  h1.post-title {
+    color:#6a8edf;
+    {
+</style>
+<div style="color: #6996fb;">
 A letter to my third-grade teacher.
-
 </div>
 
 
@@ -18,5 +21,5 @@ Dear Mrs. Keleher,
 Best,
 
 Rebecca Koleth
-<hr>
+<hr style="background-color:#99b8fc;">
 <div class=indent> I'll send this one day, but for now it's just one more thing I owe—Rebecca Koleth</div>

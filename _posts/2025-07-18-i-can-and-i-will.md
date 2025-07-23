@@ -25,7 +25,7 @@ Another song I love.
 Hi, Katie. I'm planning on sending this to you.
 </div>
 <div class = "indent">
-We talk about music a lot. Almost every conversation eventually returns to music, as if it exists as our most natural form of communication or some baseline. Even now, we send each other Spotify links, and we plan to frolic in fields while listening to Ravel's string quartet or Debussy's Prelude To The Afternoon Of A Faun. I can't wait to frolic with you.
+We talk about music a lot. Almost every conversation eventually returns us to music, as if it exists as our most natural form of communication. Maybe music is a baseline we share. Even now, we send each other Spotify links, and we plan to frolic in fields while listening to Ravel's string quartet or Debussy's Prelude To The Afternoon Of A Faun. I can't wait to frolic with you.
 </div>
 <div class="indent">
 You and I have had multiple conversations in which I claim that I don't like to listen to slow or sad music, but the truth is, I very much do like those types of songs. *I Can and I Will* by Searows is just one of many slow, sad songs I listen to. You might notice I ended that sentence with a preposition, but find it in your heart to keep reading, queen.

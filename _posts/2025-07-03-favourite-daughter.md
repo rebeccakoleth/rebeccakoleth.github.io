@@ -4,7 +4,7 @@ title: "Favourite Daughter"
 ---
 <style>
   h1.post-title {
-    color:#4125f6
+    color:#3722be
   }   
 </style>
 <audio id="song" src="/assets/favourite-daughter.mp3" preload="auto"></audio>

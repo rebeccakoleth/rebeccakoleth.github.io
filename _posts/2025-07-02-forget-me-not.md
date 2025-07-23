@@ -21,5 +21,5 @@ Dear Mrs. Keleher,
 Best,
 
 Rebecca Koleth
-<hr style="background-color:#99b8fc;">
+<hr style="background-color:#99b8fc; height: 2px; border: none;">
 <div class=indent> I'll send this one day, but for now it's just one more thing I owe—Rebecca Koleth</div>

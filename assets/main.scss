@@ -42,8 +42,7 @@ body {
   background-color: #eaffe8;
 }
 
-p {
-  line-height: 3 !important;
-  margin-bottom: 2em !important;
-  background-color: rgba(255, 0, 0, 0.05); /* temporary highlight to confirm it's targeting */
+div.indent {
+  line-height: 4 !important;
+  margin-bottom: 3em !important;
 }

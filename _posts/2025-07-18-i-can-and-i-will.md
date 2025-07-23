@@ -2,6 +2,11 @@
 layout: post
 title: I Can and I Will
 ---
+<style>
+h1.post-title {
+  color: #4e688c;
+}
+</style>
 
 <audio id="song" src="/assets/icaniwill.mp3" preload="auto"></audio>
 
@@ -16,7 +21,7 @@ title: I Can and I Will
   });
 </script>
 
-<div style="color: #2e9d32;">
+<div style="color: #465a94;">
 Another song I love.
 </div>
 

@@ -69,7 +69,7 @@ I listened to this song over and over to make myself keep going towards a realit
 <div class="indent">  
 If you walk outside on a windy day with this song playing in your ears and the foliage rustling the ground beneath your feet and the cold, drizzly air clinging to your face, you might feel it. Every inhale will be soaked in the smell of autumn—not the wafting scent of pumpkin spice or new woollen scarves, but the sweet, peppery smell of decaying leaves. When the light gusts of air rush past your ears and you look up through a canopy of trees towards an empty, blue sky, with your chilled fingertips jammed into too-small pockets, I hope you feel like you can and you will.
 </div>
-<hr style="background-color:#475c9e;">
+<hr style="background-color:#475c9e; height: 2px; border: none;">
 <div class="indent">
 For all the times I've tried to learn how to apologise to myself, and for everything I've tried to forget. This is a reminder that I Can and I Will. An imperfect addition and lesson in acceptance, this is one thing I owe to myself.—Rebecca Koleth
 </div>

@@ -67,7 +67,7 @@ I listened to this song over and over to make myself keep going towards a realit
 </div>
 
 <div class="indent">  
-If you walk outside on a windy day with this song playing in your ears and the foliage rustling the ground beneath your feet and the cold, muggy air clinging to your face, you might feel it. Every inhale will be soaked in the smell of autumn—not the wafting scent of pumpkin spice or new woollen scarves, but the sweet, peppery smell of decaying leaves. When the light gusts of air rush past your ears and you look up through a canopy of trees towards an empty, blue sky, with your chilled fingertips jammed into too-small pockets, I hope you feel like you can and you will.
+If you walk outside on a windy day with this song playing in your ears and the foliage rustling the ground beneath your feet and the cold, drizzly air clinging to your face, you might feel it. Every inhale will be soaked in the smell of autumn—not the wafting scent of pumpkin spice or new woollen scarves, but the sweet, peppery smell of decaying leaves. When the light gusts of air rush past your ears and you look up through a canopy of trees towards an empty, blue sky, with your chilled fingertips jammed into too-small pockets, I hope you feel like you can and you will.
 </div>
 <hr style="color:#475c9e;">
 <div class="indent">

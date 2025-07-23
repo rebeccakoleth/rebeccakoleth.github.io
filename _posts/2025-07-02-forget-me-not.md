@@ -5,7 +5,7 @@ title: "Dear Mrs. Keleher,"
 <style>
   h1.post-title {
     color:#6a8edf;
-    {
+  }
 </style>
 <div style="color: #6996fb;">
 A letter to my third-grade teacher.

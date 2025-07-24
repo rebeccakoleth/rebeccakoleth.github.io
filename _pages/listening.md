@@ -16,7 +16,7 @@ favourite daughter - lorde
           ✩₊˚.⋆☾⋆⁺₊✧✩‧₊˚  
   </a>
   <audio id="favd" src="/assets/favourite-daughter.mp3"></audio>
-  <p><a href="/2025-07-03/favourite-daughter">my post about this song</a></p>
+  <p><a href="/2025-07-03/favourite-daughter"><u>my post about this song</u></a></p>
 </div>
 <hr style="
   border: none;

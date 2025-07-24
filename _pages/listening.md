@@ -34,7 +34,7 @@ i can and i will - searows
           ✩₊˚.⋆☾⋆⁺₊✧✩‧₊˚  
   </a>
   <audio id="icaiw" src="/assets/icaniwill.mp3"></audio>
-  <p><a href="/2025-07-18/i-can-and-i-will">my post about this song</a></p>
+  <p><a href="/2025-07-18/i-can-and-i-will"><u>my post about this song</u></a></p>
 </div>
 <hr style="
   border: none;

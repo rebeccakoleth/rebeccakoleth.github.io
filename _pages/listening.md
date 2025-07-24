@@ -36,7 +36,16 @@ i can and i will - searows
   <audio id="icaiw" src="/assets/icaniwill.mp3"></audio>
   <p><a href="/2025-07-18/i-can-and-i-will">my post about this song</a></p>
 </div>
-<hr>
+<hr style="
+  border: none;
+  height: 2px;
+  background: linear-gradient(to right, #7f7fff, #b36bff, #7f7fff);
+  margin: 10px auto 30px;
+  width: 100%;
+  box-shadow:
+    0 0 8px #7f7fff,
+    0 0 16px #b36bff;
+">
 <div class = "indent" style = "color:#58b6c3;">
 blade bird - oklou
   <a href="/assets/bladebird.mp3" onclick="playOnly('bbird'); return false;">
@@ -44,7 +53,16 @@ blade bird - oklou
   </a>
   <audio id="bbird" src="/assets/bladebird.mp3"></audio>
 </div>
-<hr>
+<hr style="
+  border: none;
+  height: 2px;
+  background: linear-gradient(to right, #7f7fff, #b36bff, #7f7fff);
+  margin: 10px auto 30px;
+  width: 100%;
+  box-shadow:
+    0 0 8px #7f7fff,
+    0 0 16px #b36bff;
+">
 <script>
 function playOnly(id) {
   document.querySelectorAll('audio').forEach(function(audio) {

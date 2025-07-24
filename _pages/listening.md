@@ -23,7 +23,7 @@ favourite daughter - lorde
   height: 2px;
   background: linear-gradient(to right, #7f7fff, #b36bff, #7f7fff);
   margin: 10px auto 30px;
-  width: 60%;
+  width: 80%;
   box-shadow:
     0 0 8px #7f7fff,
     0 0 16px #b36bff;

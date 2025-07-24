@@ -8,6 +8,7 @@ title: "Favourite Daughter"
   }   
 </style>
 <audio id="song" src="/assets/favourite-daughter.mp3" preload="auto"></audio>
+<div id="tapToPlay" style="position:fixed;top:0;left:0;width:100vw;height:100vh;background:transparent;z-index:9999;"></div>
 
 <script>
   window.addEventListener("DOMContentLoaded", function () {
@@ -20,7 +21,15 @@ title: "Favourite Daughter"
   });
 </script>
 
-
+<script>
+  document.getElementById("tapToPlay")?.addEventListener("click", function () {
+    const audio = document.getElementById("song");
+    audio.play().catch(() => {
+      console.log("Autoplay failed.");
+    });
+    this.remove();
+  });
+</script>
 
 <div style="color: #0c3095;">
 I love Lorde.

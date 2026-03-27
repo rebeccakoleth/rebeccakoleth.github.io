@@ -13,4 +13,4 @@ date: 2026-03-27
 <p style = "color: green; font-size: 16px;">7. My favorite number is 7.</p>
 <p style = "color: deeppink; font-size: 16px;">8. I cried in my mother's arms after reading Charlotte's Web when I was 8.</p>
 <p style = "color: darkblue; font-size: 16px;">9. I like going on walks on clear spring days.</p>
-<p style = "color: green; font-size: 16px;">10. I don't know that much about myself now that I think about it. </p>
+<p style = "color: green; font-size: 16px;">10. I don't know that much about myself now that I think about it.</p>

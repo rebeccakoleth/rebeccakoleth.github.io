@@ -1,0 +1,20 @@
+title: "a small corner"
+description: "personal writing, little rants, and things worth noticing"
+author: Becky
+baseurl: ""
+url: ""
+
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+
+markdown: kramdown
+highlighter: rouge
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

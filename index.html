@@ -1,0 +1,31 @@
+---
+layout: default
+title: home
+---
+
+<div class="home-intro">
+  <h1 class="home-greeting"></h1>
+  <p class="home-bio"></p>
+</div>
+
+<p class="section-heading">recent posts</p>
+
+<ul class="post-list">
+  {% for post in site.posts limit:5 %}
+  <li class="post-item">
+    <a href="{{ post.url | relative_url }}">
+      <div class="post-item-title">{{ post.title }}</div>
+      {% if post.excerpt %}
+      <div class="post-item-excerpt">{{ post.excerpt | strip_html | truncatewords: 20 }}</div>
+      {% endif %}
+    </a>
+    <span class="post-item-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+  </li>
+  {% endfor %}
+</ul>
+
+{% if site.posts.size > 5 %}
+<p style="margin-top:1.5rem; font-size:0.82rem;">
+  <a href="{{ '/posts' | relative_url }}" style="color:var(--text-soft); text-decoration-color:var(--pink-mid);">see all posts →</a>
+</p>
+{% endif %}

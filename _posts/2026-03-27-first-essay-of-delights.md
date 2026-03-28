@@ -8,7 +8,7 @@ date: 2026-03-27
 </style>
 
 <p>
-In English class, we’re beginning The Book of Delights by Ross Gay. It is, as the name says, a book full of delights that he encounters daily. In the preface, he writes that “the more you study delight, the more delight there is to study.” I happen to lack a lot of delight in my life, or maybe just the ability to see all the delights around me. He also clarifies that, along with the delights, there are still sorrow, pain, and worry. In an effort to be able to see the delights around me, I’m going to try it out.
+In English class, we’re beginning <i>The Book of Delights</i> by Ross Gay. It is, as the name says, a book full of delights that he encounters daily. In the preface, he writes that “the more you study delight, the more delight there is to study.” I happen to lack a lot of delight in my life, or maybe just the ability to see all the delights around me. He also clarifies that, along with the delights, there are still sorrow, pain, and worry. In an effort to be able to see the delights around me, I’m going to try it out.
 </p>
 <p>
 Today, I stared at the sky until yellow spots appeared in the centers of my eyes, and suddenly, the sun was everywhere I turned. I got up to walk around, and the sun stained the white paint of the door. In the grey sky, two suns found their way onto slow-moving clouds, clouds glowing pink and purple, or maybe that’s just the cones in my eyes misfiring. I kept my eyes open for as long as I could, but with each blink the suns faded, and I could only imagine they had slipped behind the clouds.

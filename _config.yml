@@ -1,5 +1,5 @@
 title: "a small corner"
-description: "personal writing, little rants, and things worth noticing"
+description: "personal writing"
 author: Becky
 baseurl: ""
 url: ""
@@ -11,6 +11,7 @@ plugins:
 
 markdown: kramdown
 highlighter: rouge
+theme: minima
 
 defaults:
   - scope:
@@ -18,4 +19,3 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-theme: null

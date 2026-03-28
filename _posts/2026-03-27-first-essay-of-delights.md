@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "first essay of delights"
-date: 03-27-2026
+date: 2026-03-27
 ---
 <style>
   p { text-indent: 50px; }

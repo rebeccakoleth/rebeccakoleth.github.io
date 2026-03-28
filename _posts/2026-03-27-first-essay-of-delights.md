@@ -20,7 +20,7 @@ I had a blueberry-and-raspberry Oreo, and it was quite nice. I let the sparkly b
 Art was a delight. I filled a plastic bag with bright inks and metallic acrylics and used a pushpin to secure it to our artwork. More glitter came in (another delight), so I sprinkled silver feathers with soft spatterings of sparkling pinks and silvers and golds. I bundled goose feathers together, and I crumpled gold leaf between the tips of my fingers and the heel of my palm before perching it atop our soggy structure. A handful of red sequins found themselves scattered across a few feathers, almost like beads of blood or like small rubies clustered together.
 </p>
 <p>
-Playing badminton, moving my body, and feeling the racket like an extension of my arm, a learned distance that my body trusts my eyes to calculate, and my eyes trust my body to move through, was a delight. The coolness of the makeup wipe as I sponged it off my face was a delight. 
+Playing badminton, moving my body, and feeling the racket like an extension of my arm, a learned distance that my body trusts my eyes to calculate, and my eyes trust my body to move through, was a delight. The coolness of the makeup wipe as I sponged foundation off my face was a delight. 
 </p>
 <p>
 I had a day mixed with delights, but right now, in this moment, the absence of delights hollows out my throat, and I wish I could see the world with more gratitude. Perhaps it’s a learning curve.

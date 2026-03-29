@@ -2,6 +2,7 @@
 layout: post
 title: "10 things I know about me"
 date: 2026-03-27
+tags: [lists]
 ---
 
 <p style = "color: green; font-size: 16px;">1. My favorite color is green, followed by pink, then blue.</p>

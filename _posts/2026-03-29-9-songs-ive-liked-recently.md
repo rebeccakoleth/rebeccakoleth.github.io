@@ -7,7 +7,7 @@ tags: [lists]
 
 <ul>
     <li>
-    1.<a href="https://open.spotify.com/track/2URXDOvulY7LNJORjDkerF?si=0cbba7567b964cae" target="_blank">Telephone and Rubber Band</a> by Penguin Cafe Orchestra
+    1. <a href="https://open.spotify.com/track/2URXDOvulY7LNJORjDkerF?si=0cbba7567b964cae" target="_blank">Telephone and Rubber Band</a> by Penguin Cafe Orchestra
     </li>
     <li>
     2. <a href="https://open.spotify.com/track/5EDz9U8TS0spv8IH5sGHLw?si=439714abdfec4737" target="_blank">Come to Your Senses</a> from Tick, Tick… Boom!

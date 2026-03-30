@@ -10,7 +10,7 @@ tags: [delights]
 </style>
 
 <p>
-It wasn’t as easy to find delights today. I find that staying at home means I don’t do very much, or at least I don’t do many delightful things. I want to lie in the grass at night and stare up at the sky while the Earth spins me away from the stars, and I can just pretend that it’s not really me who’s moving. I can pretend that I can keep this moment, and nothing will change, but secretly, I am both excited and terrified for things to change. I am very scared.
+It wasn’t as easy to find delights today. I find that staying at home means I don’t do very much, or at least I don’t do many delightful things. I want to lie in the grass at night and stare up at the sky while the Earth spins me away from the stars, and I can just pretend that it’s not really me who’s moving. I can pretend I can keep this moment, and that nothing will change, but secretly I am both excited and terrified that things will change. I am very scared.
 </p>
 <p>
 This morning, as I sat at my white wicker-patterened desk that’s chipping and revealing brown in the form of countless constellations, the sun fractured into a thousand rainbows that painted my desk and arms. There are flowers on that window, translucent ones that cast rainbow prisms on the walls when the sun is high in the sky and wake me with their love for light, bright and early. 

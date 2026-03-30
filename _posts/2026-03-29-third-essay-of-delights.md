@@ -37,7 +37,7 @@ An easy way to say I care is by sharing my space and my time. I take it for gran
 A tangle of stems and roots and branches of varying browns, deep red stains, dusty browns, and greys that glow both white and cool brown in the half-light, half-shadow of afternoon. Delightful. I want to see every shade, every hue, and every wash of brown. 
 </p>
 <p>
-The erosion of soil and the tree stump that used to be a full circle of wooden rings, now just a crescent of wood jutting out of a mound, no longer a sturdy stage for two front paws as Dexter elevates himself to bark at anything and everything. I hope change can always be delight, or just eventually, indirectly, in the illusion of causality, makes me happy. 
+The erosion of soil and the tree stump that used to be a full circle of wooden rings, now just a crescent of wood jutting out of a mound, no longer a sturdy stage for two front paws as Dexter elevates himself to bark at anything and everything. I hope change can always be delight, or just eventually, indirectly, in the illusion of causality, make me happy. 
 </p>
 <p>
 With all my looking down, it’s rare that I tilt my head up to look at the sky, but above me was a clear, true blue sky with a few strands of wispy cloud stretching across. 

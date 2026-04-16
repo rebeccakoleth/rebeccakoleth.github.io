@@ -1,6 +1,4 @@
-# a small corner — jekyll blog theme
-
-pastel greens, blues, and pinks. playfair display + lora. yours to fill.
+# my corner of delights
 
 ## setup
 
@@ -43,8 +41,6 @@ tags: [optional, tags]
 
 your writing goes here.
 ```
-
-that's it. push to github and it appears.
 
 ---
 

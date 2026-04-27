@@ -3,6 +3,7 @@ layout: post
 title: "first essay of delights"
 date: 2026-03-27
 tags: [delights]
+published: false
 ---
 <style>
   p { text-indent: 50px; }

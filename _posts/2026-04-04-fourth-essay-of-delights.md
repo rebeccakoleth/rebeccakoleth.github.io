@@ -3,6 +3,7 @@ layout: post
 title: "fourth essay of delights"
 date: 2026-04-04
 tags: [delights]
+published: false
 ---
 
 <style>

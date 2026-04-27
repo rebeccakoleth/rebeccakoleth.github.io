@@ -3,6 +3,7 @@ layout: post
 title: "8 things I want to believe"
 date: 2026-03-30
 tags: [lists]
+published: false
 ---
 
 <ol>

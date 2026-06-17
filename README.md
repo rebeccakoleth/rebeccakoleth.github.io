@@ -64,5 +64,3 @@ in `_layouts/default.html`, find the nav-links list and add:
 then create `yourpage.html` with `layout: default` at the top.
 
 ---
-
-made with care. make it yours.

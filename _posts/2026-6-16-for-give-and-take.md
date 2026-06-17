@@ -2,7 +2,7 @@
 layout: post
 title: "for give and take"
 date: 2026-06-16
-tags: personal writing
+tags: [personal writing]
 published: true
 ---
 

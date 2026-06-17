@@ -3,7 +3,7 @@ layout: post
 title: "third essay of delights"
 date: 2026-03-29
 tags: [delights]
-published: false
+published: true
 ---
 
 <style>

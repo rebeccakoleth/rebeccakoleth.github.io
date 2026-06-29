@@ -72,9 +72,8 @@ nav {
 
 .nav-links a:hover { color: var(--text); }
 
-/* ---- layout ---- */
 .container {
-  max-width: 680px;
+  max-width: 750px;
   margin: 0 auto;
   padding: 0 1.5rem;
 }
@@ -198,7 +197,6 @@ nav {
   letter-spacing: 0.03em;
 }
 
-/* ---- post ---- */
 .post-header {
   margin-bottom: 2.5rem;
   padding-bottom: 2rem;
@@ -282,7 +280,6 @@ nav {
 
 .back-link:hover { color: var(--text); }
 
-/* ---- about ---- */
 .about-header {
   margin-bottom: 2.5rem;
 }
@@ -308,7 +305,6 @@ nav {
   text-decoration-color: var(--blue-mid);
 }
 
-/* ---- accent card ---- */
 .accent-card {
   background: linear-gradient(135deg, var(--pink-light) 0%, var(--blue-light) 100%);
   border-radius: 12px;

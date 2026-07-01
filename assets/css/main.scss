@@ -12,7 +12,7 @@
   --blue:       #b8cfe8;
   --blue-light: #edf3fb;
   --blue-mid:   #8aafe0;
-  --cream:      #fdfaf6;
+  --creamypink: #f9eeea;
   --text:       #3a3530;
   --text-soft:  #7a7068;
   --text-faint: #b0a898;
@@ -25,7 +25,7 @@ html { font-size: 18px; }
 
 body {
   font-family: 'Lora', Georgia, serif;
-  background: var(--cream);
+  background: var(--creamypink);
   color: var(--text);
   line-height: 1.85;
   min-height: 100vh;
